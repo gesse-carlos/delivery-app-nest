@@ -1,8 +1,8 @@
 {
   "name": "delivery-app-nest",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "NestJS CRUD for delivery app",
+  "author": "gesse-carlos",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
